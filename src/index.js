@@ -1,1 +1,1 @@
-console.log('Webpack wizard!!!');
+console.log('Webpack test!!!');
